@@ -1,0 +1,1 @@
+alias sr='screen -dmS'
